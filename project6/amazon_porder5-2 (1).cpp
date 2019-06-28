@@ -1,7 +1,4 @@
-//THIS IS ONLY AN EXAMPLE TO HELP YOU GET STARTED WITH THIS ASSIGNMENT
 
-
-//EXAMPLE OF PROGRAM HEADER
 /************************************************************************************************************************
 
 Name:  Lofton Bullard        Z#: Z111111111
